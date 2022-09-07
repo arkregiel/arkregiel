@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👀 I'm interested in:
+- 🐍 Python programming
+- 📡 Networking
+- 🕵️‍♂️ Cybersecurity
+
+📬 Contact -> arkregiel@gmail.com
