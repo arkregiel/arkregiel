@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📡 Networking
 - 🕵️‍♂️ Cybersecurity
 
-📬 Contact -> arkregiel@gmail.com
+📬 Contact ➡ arkregiel@gmail.com
