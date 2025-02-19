@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 📬 Contact ➡ arkregiel@gmail.com
 
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=arkregiel&include_orgs=true&theme=algolia&hide=javascript,html)](https://github.com/arkregiel)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=arkregiel&include_orgs=true&hide_border=true&bg_color=ff00&title_color=1cb5fc&text_color=ffffff&hide=javascript,html,php)](https://github.com/arkregiel)
